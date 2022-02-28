@@ -1,0 +1,13 @@
+.do{
+    background-color: black; 
+    color: white;
+}
+
+.donot{
+    background-color: yellow;
+}
+
+.do,.donot{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
